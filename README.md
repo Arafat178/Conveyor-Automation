@@ -84,6 +84,6 @@ A demo run will:
 * Hide sketches and planes for a clean final conveyor
 * Present the conveyor in **isometric view** automatically
 
-![Demo Illustration Placeholder](media/conveyor.gif)
+![Demo Illustration Placeholder](media/conveyor1.gif)
 
 ---
